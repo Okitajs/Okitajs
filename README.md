@@ -4,7 +4,4 @@
  <a href="https://www.instagram.com/okitaresmi" target"blank_"><img src="https://img.shields.io/badge/Okita%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </p>
 
-<div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Okita&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Okita&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
-</div>
+
