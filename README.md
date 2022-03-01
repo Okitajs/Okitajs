@@ -1,9 +1,7 @@
-<p align="center">
-  <a href="https://discord.com/users/808821895256342528"><img src="https://img.shields.io/badge/Okita%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/Okitajs"><img src="https://img.shields.io/badge/Okita%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.instagram.com/okita.xd" target"blank_"><img src="https://img.shields.io/badge/Okita%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</p>
+# ✨ Hi! I'm Okita ✨.
 
-  <img src="https://komarev.com/ghpvc/?username=Okitajs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Okitajs" />
+![okita profile](https://komarev.com/ghpvc/?username=Okitajs&color=blueviolet)
 
+
+![okita stats](https://github-readme-stats.vercel.app/api?username=Okitajs&show_icons=true&bg_color=353535&text_color=ABABAB&title_color=BC25E9&icon_color=BC25E9) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okitajs&layout=compact&bg_color=353535&text_color=ABABAB&title_color=BC25E9&)](https://github.com/Okitajs)
 
